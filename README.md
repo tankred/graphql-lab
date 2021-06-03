@@ -13,7 +13,7 @@ node hello.js
 What things you need to install the software and how to install them
 
 ```
-Give examples
+npm install apollo-server graphql
 ```
 
 ### Installing
@@ -24,6 +24,7 @@ Say what the step will be
 
 ```
 Give the example
+
 ```
 
 And repeat
@@ -54,15 +55,6 @@ Explain what these tests test and why
 Give an example
 ```
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Contributing
 
@@ -83,5 +75,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * Hat tip to anyone whose code was used
-* Inspiration
+* [Successfully tested your first GraphQL query](https://www.howtographql.com/graphql-js/1-getting-started/)
 

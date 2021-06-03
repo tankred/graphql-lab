@@ -1,10 +1,11 @@
 {
   "name": "graphql-lab",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "graphql lab",
   "main": "index.js",
   "dependencies": {
-    "graphql": "^14.2.1"
+    "apollo-server": "^2.25.0",
+    "graphql": "^14.7.0"
   },
   "devDependencies": {},
   "scripts": {
